@@ -3,14 +3,14 @@
   "version": "0.1.0",
   "description": "Strict NESA-aligned feedback on HSC English essays",
   "author": {
-    "name": "Local developer"
+    "name": "tirbofish"
   },
   "skills": "./skills/",
   "interface": {
     "displayName": "HSC English Nitpick",
     "shortDescription": "Ruthless HSC question-accuracy review",
     "longDescription": "Audits HSC English essays for exact question alignment, argumentative precision, textual accuracy and sentence-level relevance using NESA-aligned criteria.",
-    "developerName": "Local developer",
+    "developerName": "tirbofish",
     "category": "Productivity",
     "capabilities": ["Interactive"],
     "defaultPrompt": [
