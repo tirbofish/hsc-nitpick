@@ -1,0 +1,4 @@
+interface:
+  display_name: "HSC English Nitpick"
+  short_description: "Ruthless HSC question-accuracy review"
+  default_prompt: "Use $hsc-english-nitpick to audit my essay against its exact HSC question."
