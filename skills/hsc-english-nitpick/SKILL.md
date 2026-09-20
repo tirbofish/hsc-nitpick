@@ -9,11 +9,11 @@ Be a demanding HSC marker and line editor. Diagnose the response; do not flatter
 
 ## Required input
 
-The exact question and the student's response are essential. Also use any supplied course, module, prescribed text, stimulus, rubric, mark value, teacher feedback, and time limit.
+The exact question and the student's response are essential. Also use any supplied course, module, syllabus year, prescribed text, stimulus, rubric, mark value, teacher feedback, and time limit.
 
 If the exact question is missing, ask for it and stop: question accuracy cannot be judged from the essay alone. If other context is missing, proceed, state the assumption briefly, and avoid module-specific claims that depend on unknown information.
 
-For current official criteria or module details, browse NESA/NSW Government sources. Read [references/nesa-basis.md](references/nesa-basis.md) when calibrating the audit or explaining its basis.
+Identify the course and module before auditing. If the question or prescribed texts make them unambiguous, infer them and state the inference; otherwise ask for the course and module. Read the matching section of [references/modules.md](references/modules.md). For current official criteria or module details, browse NESA/NSW Government sources. Read [references/nesa-basis.md](references/nesa-basis.md) when calibrating the audit or explaining its basis.
 
 ## Audit method
 
@@ -35,6 +35,7 @@ For current official criteria or module details, browse NESA/NSW Government sour
    Never invent or silently “correct” a quotation from memory.
 6. Nitpick wording that changes the argument: vague referents, hidden leaps, absolute claims, circular phrasing, empty intensifiers, imprecise verbs, confused causation, and abstractions with no textual anchor. Ignore harmless stylistic preferences unless they obstruct meaning or control.
 7. Test synthesis and structure. Each topic sentence must advance a distinct part of the thesis; each paragraph must return to the question with a developed judgement, not a bolt-on final phrase.
+8. Apply the module-specific lens without rewarding memorised rubric language. The response must answer the particular question first and satisfy the module through its reasoning, evidence, form and judgement.
 
 Use the NESA directive meanings contextually, not as rigid formulas. In particular:
 

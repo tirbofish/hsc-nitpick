@@ -4,10 +4,13 @@ Use this reference to calibrate strictness. It distils official guidance; it doe
 
 ## What the official samples establish
 
-NESA states that standards materials illustrate work typical at **band borderlines**. Do not describe Band 5/6 samples as confirmed 20/20 essays. The English Advanced collection includes a 2019 exemplar and Band 5/6 samples across Paper 1 Section I, the Common Module extended response, Module A, Module B, and Module C.
+NESA states that standards materials illustrate work typical at **band borderlines**. Do not describe Band 5/6 samples as confirmed 20/20 essays. The English Standard and Advanced collections include samples across Paper 1, the Common Module extended response, Module A, Module B, and Module C.
 
 Official collection:
 https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-standards/english-advanced
+
+English Standard collection:
+https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-standards/english-standard
 
 The separate 2019 exemplar:
 https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-standards/english-advanced/exemplar-q6-2019
@@ -30,6 +33,15 @@ Recent official feedback:
 
 - 2025 English Advanced exam pack: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/english-advanced/2025
 - 2024 English Advanced exam pack: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/english-advanced/2024
+- 2025 English Standard exam pack: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/english-standard/2025
+- 2024 English Standard exam pack: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/english-standard/2024
+
+## Syllabus transition
+
+The 2024 English Standard and Advanced syllabuses began with Year 11 in 2026 and have their first HSC examination in 2027. The 2026 HSC cohort remains on the 2017 syllabus. The Year 12 module names covered by this skill remain the same, but always prefer the syllabus and marking material for the student's examination year.
+
+- English Standard 2024 overview: https://curriculum.nsw.edu.au/learning-areas/english/english-standard-11-12-2024/overview/course
+- English Advanced 2024 overview: https://curriculum.nsw.edu.au/learning-areas/english/english-advanced-11-12-2024/overview/course
 
 ## Directive words
 
