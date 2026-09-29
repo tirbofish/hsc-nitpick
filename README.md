@@ -5,6 +5,8 @@ This skill/plugin aims to get rid of that issue.
 
 # How to install
 
+## Codex
+
 In the Codex CLI
 
 ```bash
@@ -20,3 +22,13 @@ In the ChatGPT desktop app:
 5. After clicking add, go to the Personal tab in Plugins, then "HSC Nitpick" and click install
 
 To call it in chat, append `$HSC` to your prompt and hit enter on the HSC Nitpick skill.  
+
+## Gemini
+
+1. Go to [Gemini](https://gemini.google.com)
+2. Click on Settings, then Skills
+3. Download [SKILL.md](SKILL.md) from this repository
+4. Click on the upload button, then upload your downloaded SKILL.md
+5. After uploading, click on Create
+
+To call it in chat, append `/hsc-english-nitpick` to your prompt.  
