@@ -1,6 +1,6 @@
 {
   "name": "hsc-english-nitpick",
-  "version": "0.1.0+codex.20260920043927",
+  "version": "0.1.1",
   "description": "Strict NESA-aligned feedback on HSC English essays",
   "author": {
     "name": "tirbofish"

@@ -1,0 +1,20 @@
+{
+  "name": "hsc-nitpick",
+  "description": "Strict question-focused feedback for NSW HSC English essays",
+  "owner": {
+    "name": "tirbofish"
+  },
+  "plugins": [
+    {
+      "name": "hsc-english-nitpick",
+      "source": "./",
+      "description": "Strict NESA-aligned feedback on HSC English essays",
+      "version": "0.1.1",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

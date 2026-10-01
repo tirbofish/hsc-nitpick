@@ -11,7 +11,7 @@ In the Codex CLI
 
 ```bash
 codex plugin marketplace add tirbofish/hsc-nitpick
-codex plugin add hsc-nitpick@hsc-nitpick
+codex plugin add hsc-english-nitpick@hsc-nitpick
 ```
 
 In the ChatGPT desktop app:
@@ -21,7 +21,20 @@ In the ChatGPT desktop app:
 4. Source: tirbofish/hsc-nitpick, everything else default
 5. After clicking add, go to the Personal tab in Plugins, then "HSC Nitpick" and click install
 
-To call it in chat, append `$HSC` to your prompt and hit enter on the HSC Nitpick skill.  
+To call it in chat, append `$hsc-english-nitpick` to your prompt and select the HSC English Nitpick skill.
+
+If you already added this marketplace, refresh it with `codex plugin marketplace upgrade hsc-nitpick`, then run the install command above.
+
+## Claude Code
+
+```bash
+claude plugin marketplace add tirbofish/hsc-nitpick
+claude plugin install hsc-english-nitpick@hsc-nitpick
+```
+
+Restart Claude Code after installing, then invoke `/hsc-english-nitpick:hsc-english-nitpick` with the exact essay question and your response.
+
+For local development, run `claude --plugin-dir .` from this repository.
 
 ## Gemini
 
@@ -32,3 +45,9 @@ To call it in chat, append `$HSC` to your prompt and hit enter on the HSC Nitpic
 5. After uploading, click on Create
 
 To call it in chat, append `/hsc-english-nitpick` to your prompt.  
+
+## Package layout
+
+The shared marketplace catalog is `.claude-plugin/marketplace.json`, which both Claude Code and Codex support. Its `source` points to the repository root. Each host has its own plugin manifest, and both load the same `skills/hsc-english-nitpick/` directory, including its reference files.
+
+`SKILL.md` at the repository root is the standalone upload version for Gemini. For agents that install skill directories, copy the complete `skills/hsc-english-nitpick/` directory so its references remain available.
